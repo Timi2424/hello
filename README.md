@@ -1,3 +1,3 @@
-- [Preview](https://your-name.github.io/your-repo/)
-  - [Pull Request](https://github.com/your-name/your-repo/pull/1/files)
+- [Preview](https://github.com/Timi2424/hello)
+  - [Pull Request](https://github.com/Timi2424/hello/pull/1)
 Copy
